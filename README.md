@@ -30,7 +30,7 @@ Soy un profesional híbrido que combina el rigor lógico de la ingeniería con l
 
 ### 📂 Proyectos Destacados
 
-- **[Generador de Frases con Vite]([enlace-a-tu-repo](https://michgerabodo92.github.io/Frases2026/)):** Aplicación funcional que demuestra el manejo de APIs y despliegue profesional.
+- **[Generador de Frases con Vite](https://michgerabodo92.github.io/Frases2026/):** Aplicación funcional que demuestra el manejo de APIs y despliegue profesional.
 
 ---
 
